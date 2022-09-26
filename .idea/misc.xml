@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/tafta/AndroidStudioProjects/Tugas3Prak/app/src/main/res/layout/activity_forgot_password.xml" value="0.265625" />
         <entry key="..\:/Users/tafta/AndroidStudioProjects/Tugas3Prak/app/src/main/res/layout/activity_login.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/tafta/AndroidStudioProjects/Tugas3Prak/app/src/main/res/layout/activity_reset_password.xml" value="0.265625" />
+        <entry key="..\:/Users/tafta/AndroidStudioProjects/Tugas3Prak/app/src/main/res/layout/activity_success_reset_password.xml" value="0.265625" />
       </map>
     </option>
   </component>
